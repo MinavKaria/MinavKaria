@@ -8,7 +8,6 @@
     <a href="https://www.linkedin.com/in/MinavKaria">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    
     <a href="https://leetcode.com/MinavKaria">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
