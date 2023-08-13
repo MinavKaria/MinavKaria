@@ -22,9 +22,9 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/MinavKaria)
 
 ### Technologies & Frameworks
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/MinavKaria)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/MinavKaria)
-[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://hub.docker.com/u/MinavKaria)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/MinavKaria)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/MinavKaria)
+[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/MinavKaria)
 
 
 ### OS
