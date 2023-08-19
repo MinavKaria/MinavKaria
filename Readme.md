@@ -5,7 +5,7 @@
     <i>
         I'm Minav.<br>
     </i><br>
-    <a href="[https://www.linkedin.com/in/minav-karia-b10aa2243/](https://www.linkedin.com/in/minav-karia-b10aa2243/)">
+    <a href="https://www.linkedin.com/in/minav-karia-b10aa2243/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/MinavKaria">
