@@ -1,9 +1,13 @@
+
+![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/MinavKaria/MinavKaria/assets/119132631/b43db2da-deda-431a-8dce-65cc0026a76e)
+
+
 <h1 align="center">Hi, guys! 👋</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Minav.<br>
+        I'm Minav Karia<br>
     </i><br>
     <a href="https://www.linkedin.com/in/minav-karia-b10aa2243/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -52,11 +56,11 @@
 <!--
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I am crazy
 -->
