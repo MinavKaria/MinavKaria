@@ -15,7 +15,9 @@
     <a href="https://leetcode.com/MinavKaria">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
+    
 </p>
+
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MinavKaria)
@@ -51,6 +53,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinavKaria&theme=transparent" />
   </a>
 </details>
+
+<h2 align="center"><b>Visitor's Count</b></h2>
+<p align="center"><img src="https://profile-counter.glitch.me/MinavKaria/count.svg" alt="visitor badge"/></p>
+   
 
 
 <!--
