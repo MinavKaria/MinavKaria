@@ -29,7 +29,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/MinavKaria)
 [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/MinavKaria)
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/MinavKaria)
-
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)](https://github.com/MinavKaria) 
 
 
 ### OS
