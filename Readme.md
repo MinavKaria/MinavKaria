@@ -4,9 +4,10 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Minav Karia<br>
+   <i>
+        I'm Minav Karia, a passionate coder exploring the realms of technology.
     </i><br>
+    <br>
     <a href="https://www.linkedin.com/in/minav-karia-b10aa2243/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
