@@ -12,6 +12,12 @@
     <a href="https://www.linkedin.com/in/minav-karia-b10aa2243/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+
+   <a href="https://leetcode.com/MinavKaria/">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode" alt="LeetCode">
+    </a>
+
+
     
 </p>
 
