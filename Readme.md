@@ -36,8 +36,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/MinavKaria)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/MinavKaria)
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/MinavKaria) 
-[![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](YOUR_POSTMAN_PROFILE_LINK) 
-
+[![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://github.com/MinavKaria) 
+[![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)](https://github.com/MinavKaria) 
+[![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/MinavKaria) 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MinavKaria)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/MinavKaria)
