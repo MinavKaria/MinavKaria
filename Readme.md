@@ -39,6 +39,7 @@
 [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://github.com/MinavKaria) 
 [![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)](https://github.com/MinavKaria) 
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/MinavKaria) 
+
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MinavKaria)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/MinavKaria)
@@ -47,7 +48,6 @@
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://github.com/MinavKaria/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/MinavKaria/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/MinavKaria/)
-[![DS/AI/ML](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
 
 
 
