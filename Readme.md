@@ -1,4 +1,5 @@
-![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/MinavKaria/MinavKaria/assets/119132631/b43db2da-deda-431a-8dce-65cc0026a76e)
+![Minav Github](https://github.com/MinavKaria/MinavKaria/assets/119132631/809684d2-135a-4045-9d15-a0948028ad33)
+
 
 <h1 align="center">Hi, guys! 👋</h1>
 
@@ -48,7 +49,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://github.com/MinavKaria/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/MinavKaria/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/MinavKaria/)
-
+[![DS/AI/ML](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
 
 
 <details>
