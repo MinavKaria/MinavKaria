@@ -7,17 +7,20 @@
     <b>Welcome to my page!</b><br><br>
    <i>
         I'm Minav Karia, a passionate coder exploring the realms of technology.
-    </i><br>
+    </i>
+    <br>
     <br>
     <a href="https://www.linkedin.com/in/minav-karia-b10aa2243/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-
-   <a href="https://leetcode.com/MinavKaria/">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode" alt="LeetCode">
+    <a href="https://leetcode.com/MinavKaria/">
+        <img src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode" alt="LeetCode">
     </a>
-
+    <a href="https://www.codechef.com/users/MinavKaria7">
+        <img src="https://img.shields.io/badge/CodeChef-brown?style=flat-square&logo=codechef" alt="CodeChef">
+    </a>
 </p>
+
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MinavKaria)
@@ -40,17 +43,18 @@
 [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://github.com/MinavKaria) 
 [![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)](https://github.com/MinavKaria) 
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/MinavKaria) 
+[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/MinavKaria/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://github.com/MinavKaria/)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MinavKaria)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/MinavKaria)
 
 ### Currently Working On
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://github.com/MinavKaria/)
-[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/MinavKaria/)
+
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/MinavKaria/)
 [![DS/AI/ML](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-
+[![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 
 <details>
 <p align="center">
