@@ -10,14 +10,17 @@
     </i>
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/minav-karia-b10aa2243/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/minav-karia/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/MinavKaria/">
-        <img src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode" alt="LeetCode">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
     </a>
     <a href="https://www.codechef.com/users/MinavKaria7">
-        <img src="https://img.shields.io/badge/CodeChef-brown?style=flat-square&logo=codechef" alt="CodeChef">
+        <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
+    </a>
+    <a href="https://codeforces.com/profile/MinavKaria">
+        <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
     </a>
 </p>
 
