@@ -50,6 +50,11 @@
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/MinavKaria) 
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/MinavKaria/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://github.com/MinavKaria/)
+[![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)](https://github.com/MinavKaria/)
+[![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy)](https://github.com/MinavKaria/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/MinavKaria/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=chart.js)](https://github.com/MinavKaria/)
+
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MinavKaria)
