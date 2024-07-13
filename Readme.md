@@ -54,6 +54,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy)](https://github.com/MinavKaria/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/MinavKaria/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=chart.js)](https://github.com/MinavKaria/)
+[![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)](https://github.com/MinavKaria/)
 
 
 ### OS
