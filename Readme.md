@@ -56,6 +56,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=chart.js)](https://github.com/MinavKaria/)
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)](https://github.com/MinavKaria/)
 [![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)](https://github.com/MinavKaria)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/MinavKaria/)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MinavKaria)
@@ -64,7 +65,6 @@
 
 ### Currently Working On
 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/MinavKaria/)
 [![DS/AI/ML](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
 
 
