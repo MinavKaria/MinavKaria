@@ -57,6 +57,8 @@
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)](https://github.com/MinavKaria/)
 [![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)](https://github.com/MinavKaria)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/MinavKaria/)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-black?style=for-the-badge&logo=apollo-graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MinavKaria)
