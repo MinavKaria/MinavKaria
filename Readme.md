@@ -10,6 +10,9 @@
     </i>
     <br>
     <br>
+    <a href="https://wakatime.com/@018cca81-3569-4bab-8a30-ac43a09b31f2"><img src="https://wakatime.com/badge/user/018cca81-3569-4bab-8a30-ac43a09b31f2.svg" alt="Total time coded since Jan 2 2024" /></a>
+    <br>
+    <br>
     <a href="https://www.linkedin.com/in/minav-karia/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -19,7 +22,7 @@
     <a href="https://www.codechef.com/users/MinavKaria7">
         <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
     </a>
-    <a href="https://codeforces.com/profile/MinavKaria">
+    <a href="https://codeforces.com/profile/MrColeno">
         <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
     </a>
 </p>
