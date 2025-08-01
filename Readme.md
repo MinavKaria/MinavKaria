@@ -89,4 +89,4 @@
 </details>
 
 <h2 align="center"><b>Visitor's Count</b></h2>
-<p align="center"><img src="https://profile-counter.glitch.me/MinavKaria/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src=" https://profile-counter.deno.dev/MinavKaria/count.svg" alt="visitor badge"/></p>
