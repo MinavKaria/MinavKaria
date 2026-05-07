@@ -1,4 +1,5 @@
-![Minav Github](https://github.com/MinavKaria/MinavKaria/assets/119132631/809684d2-135a-4045-9d15-a0948028ad33)
+<img width="3668" height="1876" alt="image" src="https://github.com/user-attachments/assets/7a5363b3-3cb5-46fe-8c36-7c7a68311da6" />
+
 
 
 <h1 align="center">Hi, guys! 👋</h1>
@@ -7,6 +8,10 @@
     <b>Welcome to my page!</b><br><br>
    <i>
         I'm Minav Karia, a passionate coder exploring the realms of technology.
+    </i>
+    <br>
+    <i>
+        Other account <a href="https://github.com/minavkaria-bs">@minavkaria-bs</a>
     </i>
     <br>
     <br>
